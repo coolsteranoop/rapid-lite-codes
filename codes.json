@@ -5378,5 +5378,1211 @@
         "code": "EUH208T",
         "statement": "Contains a Mixture of isomers: 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,5,5-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,5,6,7,8,8a-Octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one (68155-67-9); 1-(1,2,3,4,6,7,8,8a-Octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one (68155-66-8). May produce an allergic reaction.",
         "lang": "en"
+    },
+    {
+     "code": "EUH208A",
+     "statement": "Enthält Calciumalkylarylsulfonat, langkettiges. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208B",
+     "statement": "Enthält 2-Butanonoxim. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208C",
+     "statement": "Enthält d-Limonen. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208D",
+     "statement": "Enthält Benzoisothiazolon. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208E",
+     "statement": "Enthält ein Gemisch von Gemisch aus: 5-Chlor-2-methyl-2H-isothiazol-3-on und 2-Methyl-2H-isothiazol-3-on (3:1) (CIT/MIT). Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208F",
+     "statement": "Enthält C14-16-18 Alkylphenol. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208G",
+     "statement": "Enthält Cobaltbis(2-ethylhexanoat) . Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208H",
+     "statement": "Enthält Phthalsäureanhydrid. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208I",
+     "statement": "Enthält Citral. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208J",
+     "statement": "Enthält 3-Iod-2-propinylbutylcarbamat. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208K",
+     "statement": "Enthält Citronellol. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208L",
+     "statement": "Enthält a-Hexylzimtaldehyd. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208N",
+     "statement": "Enthält Terpentinöl. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208O",
+     "statement": "Enthält Geraniol. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208Q",
+     "statement": "Enthält Benzylsalicylat. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208R",
+     "statement": "Enthält Reaktionsprodukte von Bis(4-methylpentan-2-yl)dithiophosphorsäure mit Phosphoroxid, Propylenoxid und Aminen, C12-14- alkyl (verzweigt). Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208S",
+     "statement": "Enthält Linalool. Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208T",
+     "statement": "Enthält 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2-naphthyl)-ethan-1-on (OTNE). Kann allergische Reaktionen hervorrufen.",
+     "lang": "de"
+    },
+    {
+     "code": "EUH208A",
+     "statement": "Contiene calcio alchilarilsolfonato, lunga catena. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208B",
+     "statement": "Contiene 2-butanone ossima. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208C",
+     "statement": "Contiene d-Limonene. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208D",
+     "statement": "Contiene benzisothiazolone. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208E",
+     "statement": "Contiene una miscela di 5-Clor-2-metil-2H-isotiazol-3-on e 2-Metil-2H-isotiazol-3-on (3: 1) (CIT / MIT). Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208F",
+     "statement": "Contiene C14-16-18 alchilfenolo. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208G",
+     "statement": "Contiene cobalto bis (2-etilesanoato). Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208H",
+     "statement": "Contiene anidride ftalica. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208I",
+     "statement": "Contiene citrale. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208J",
+     "statement": "Contiene 3-iodo-2-propinil butilcarbammato. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208K",
+     "statement": "Contiene citronellolo. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208L",
+     "statement": "Contiene a-hexylcinnamaldehyde. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208N",
+     "statement": "Contiene olio di trementina. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208O",
+     "statement": "Contiene geraniol. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208Q",
+     "statement": "Contiene benzile salicilato. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208R",
+     "statement": "Contiene un prodotto di reazione dell'acido ditiofosforico bis (4- metilpentan-2-il) con fosfossido, propilenossido e ammine, C12-14-alchile (ramificato). Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208S",
+     "statement": "Contiene linalolo. Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208T",
+     "statement": "Contiene 1-(1,2,3,4,5,6,7,8-ottaidro-2,3,8,8-tetrametil-2-naftil)-ethan-1-one (OTNE). Può provocare una reazione allergica.",
+     "lang": "it"
+    },
+    {
+     "code": "EUH208A",
+     "statement": "Contiene alquilarilsulfonato de calcio, cadena larga. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208B",
+     "statement": "Contiene 2-butanona oxima. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208C",
+     "statement": "Contiene d-limono. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208D",
+     "statement": "Contiene benzisotiazolona. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208E",
+     "statement": "Contiene una mezcla de 5-cloro-2-metil-2H-isotiazol-3-on y 2-metil-2H-isotiazol-3-on (3: 1) (CIT / MIT). Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208F",
+     "statement": "Contiene C14-16-18 alquilfenol. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208G",
+     "statement": "Contiene bis(2-etilhexanoato) de cobalto . Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208H",
+     "statement": "Contiene anhídrido ftálico. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208I",
+     "statement": "Contiene citral. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208J",
+     "statement": "Contiene 3-yodo-2-propinil butilcarbamato. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208K",
+     "statement": "Contiene citronellol. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208L",
+     "statement": "Contiene a-hexilcinamaldehído. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208N",
+     "statement": "Contiene aceite de trementina. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208O",
+     "statement": "Contiene geraniolo. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208Q",
+     "statement": "Contiene salicilato de bencilo. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208R",
+     "statement": "Contiene un producto de reacción de ácido bis (4-metilpentan-2-il) ditiofosfórico con fosforóxido, propilenóxido y aminas, alquilo C12-14 (ramificado). Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208S",
+     "statement": "Contiene linalool. Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208T",
+     "statement": "Contiene 1-(1,2,3,4,5,6,7,8-Octahidro-2,3,8,8-tetrametil-2-naftil)-etan-1-ona (OTNE). Puede provocar una reacción alérgica.",
+     "lang": "es"
+    },
+    {
+     "code": "EUH208A",
+     "statement": "Contient alkylarylsulfonate de calcium, longue chaîne. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208B",
+     "statement": "Contient 2-butanone oxime. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208C",
+     "statement": "Contient d-limonène. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208D",
+     "statement": "Contient benzisothiazolone. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208E",
+     "statement": "Contient un mélange de 5-chlor-2-méthyl-2H-isothiazole-3-on et de 2-méthyl-2H-isothiazol-3-on (3: 1) (CIT / MIT). Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208F",
+     "statement": "Contient C14-16-18 alkylphénol. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208G",
+     "statement": "Contient bis(2-éthylhexanoate) de cobalt. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208H",
+     "statement": "Contient anhydride phtalique. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208I",
+     "statement": "Contient citral. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208J",
+     "statement": "Contient butylcarbamate de 3-iodo-2-propynyle. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208K",
+     "statement": "Contient citronellol. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208L",
+     "statement": "Contient a-hexylcinnamaldéhyde. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208N",
+     "statement": "Contient essence de térébenthine. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208O",
+     "statement": "Contient géraniol. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208Q",
+     "statement": "Contient salicylate de benzyle. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208R",
+     "statement": "Contient un produit de réaction de l'acide bis (4-méthylpentan-2-yl) dithiophosphorique avec du phosphoroxyde, de l'oxyde de propylène et des amines, alkyle en C12-14 (ramifié). Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208S",
+     "statement": "Contient linalol. Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "EUH208T",
+     "statement": "Contient 1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tétraméthyl-2-naphthyl)-éthan-1-one (OTNE). Peut produire une réaction allergique.",
+     "lang": "fr"
+    },
+    {
+     "code": "H421",
+     "statement": "Very toxic to the soil environment.",
+     "lang": "en"
+    },
+    {
+     "code": "H422",
+     "statement": "Toxic to the soil environment.",
+     "lang": "en"
+    },
+    {
+     "code": "H423",
+     "statement": "Harmful to the soil environment.",
+     "lang": "en"
+    },
+    {
+     "code": "H431",
+     "statement": "Very toxic to terrestrial vertebrates.",
+     "lang": "en"
+    },
+    {
+     "code": "H432",
+     "statement": "Toxic to terrestrial vertebrates.",
+     "lang": "en"
+    },
+    {
+     "code": "H433",
+     "statement": "Harmful to terrestrial vertebrates.",
+     "lang": "en"
+    },
+    {
+     "code": "H441",
+     "statement": "Very toxic to terrestrial invertebrates.",
+     "lang": "en"
+    },
+    {
+     "code": "H442",
+     "statement": "Toxic to terrestrial invertebrates.",
+     "lang": "en"
+    },
+    {
+     "code": "H220",
+     "statement": "Extrem entzündbares Gas.",
+     "lang": "de"
+    },
+    {
+     "code": "H282",
+     "statement": "Extremely flammable chemical under pressure: may explode if heated",
+     "lang": "en"
+    },
+    {
+     "code": "H283",
+     "statement": "Flammable chemical may explode if heated",
+     "lang": "en"
+    },
+    {
+     "code": "H284",
+     "statement": "Chemical under pressure, may explode if heated",
+     "lang": "en"
+    },
+    {
+     "code": "EUH211",
+     "statement": "Warning! Hazardous respirable droplets may be formed when sprayed. Do not breathe spray or mist",
+     "lang": "en"
+    },
+    {
+     "code": "EUH212",
+     "statement": "Warning! Hazardous respirable dust may be formed when used. Do not breathe dust",
+     "lang": "en"
+    },
+    {
+      "code": "H200",
+      "statement": "不安定爆発物",
+      "lang": "ja"
+    },
+    {
+      "code": "H201",
+      "statement": "爆発物：大量爆発危険性",
+      "lang": "ja"
+    },
+    {
+      "code": "H202",
+      "statement": "爆発物：激しい飛散危険性",
+      "lang": "ja"
+    },
+    {
+      "code": "H203",
+      "statement": "爆発物：火災、爆風又は飛散危険性",
+      "lang": "ja"
+    },
+    {
+      "code": "H204",
+      "statement": "火災又は飛散危険性",
+      "lang": "ja"
+    },
+    {
+      "code": "H205",
+      "statement": "火災時に大量爆発のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H206",
+      "statement": "火災、爆風又は飛散危険性：鈍性化剤が減少した場合には爆発の危険性の増加",
+      "lang": "ja"
+    },
+    {
+      "code": "H207",
+      "statement": "火災又は飛散危険性：鈍性化剤が減少した場合には爆発の危険性の増加",
+      "lang": "ja"
+    },
+    {
+      "code": "H208",
+      "statement": "火災危険性; 鈍性化剤が減少した場合には爆発の危険性の増加",
+      "lang": "ja"
+    },
+    {
+      "code": "H220",
+      "statement": "極めて可燃性の高いガス",
+      "lang": "ja"
+    },
+    {
+      "code": "H221",
+      "statement": "可燃性ガス",
+      "lang": "ja"
+    },
+    {
+      "code": "H222",
+      "statement": "きわめて可燃性/引火性の高いエアゾール",
+      "lang": "ja"
+    },
+    {
+      "code": "H222",
+      "statement": "極めて引火性の高いエアゾール",
+      "lang": "ja"
+    },
+    {
+      "code": "H223",
+      "statement": "可燃性エアゾールである",
+      "lang": "ja"
+    },
+    {
+      "code": "H223",
+      "statement": "強い可燃性/引火性工アゾール",
+      "lang": "ja"
+    },
+    {
+      "code": "H224",
+      "statement": "極めて引火性の高い液体及び蒸気",
+      "lang": "ja"
+    },
+    {
+      "code": "H225",
+      "statement": "引火性の高い液体及び蒸気",
+      "lang": "ja"
+    },
+    {
+      "code": "H226",
+      "statement": "引火性液体および蒸気",
+      "lang": "ja"
+    },
+    {
+      "code": "H226",
+      "statement": "引火性液体及び蒸気",
+      "lang": "ja"
+    },
+    {
+      "code": "H227",
+      "statement": "可燃性液体",
+      "lang": "ja"
+    },
+    {
+      "code": "H228",
+      "statement": "可燃性固体",
+      "lang": "ja"
+    },
+    {
+      "code": "H229",
+      "statement": "高圧容器：熱すると破裂のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H230",
+      "statement": "空気が無くても爆発的に反応するおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H231",
+      "statement": "圧力及び/又は温度が上昇した場合、空気が無くても爆発的に反応するおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H232",
+      "statement": "空気に触れると自然発火のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H240",
+      "statement": "熱すると爆発のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H241",
+      "statement": "熱すると火災又は爆発のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H242",
+      "statement": "熱すると火災のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H250",
+      "statement": "空気に触れると自然発火",
+      "lang": "ja"
+    },
+    {
+      "code": "H251",
+      "statement": "自己発熱：火災のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H252",
+      "statement": "大量の場合、自己発熱：火災のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H260",
+      "statement": "水に触れる則自然発火するおそれのある可燃性ガスを発生",
+      "lang": "ja"
+    },
+    {
+      "code": "H261",
+      "statement": "水に触れる則可燃性ガスを発生",
+      "lang": "ja"
+    },
+    {
+      "code": "H270",
+      "statement": "発火又は火災助長のおそれ：酸化性物質",
+      "lang": "ja"
+    },
+    {
+      "code": "H271",
+      "statement": "火災又は爆発のおそれ：強酸化性物質",
+      "lang": "ja"
+    },
+    {
+      "code": "H272",
+      "statement": "火災助長のおそれ：酸化性物質",
+      "lang": "ja"
+    },
+    {
+      "code": "H280",
+      "statement": "高圧ガス：熱すると爆発のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H281",
+      "statement": "深冷液化ガス：凍傷又は傷害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H290",
+      "statement": "金属腐食のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H300",
+      "statement": "飲み込む則生命に対して危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H301",
+      "statement": "飲み込む則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H302",
+      "statement": "飲み込む則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H303",
+      "statement": "飲み込む則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H304",
+      "statement": "飲み込んで気道に侵入する則生命に危険のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H305",
+      "statement": "飲み込み、気道に進入する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H310",
+      "statement": "皮膚に接触する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H311",
+      "statement": "皮膚に接触する則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H312",
+      "statement": "皮膚に接触する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H313",
+      "statement": "皮膚に接触する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H314",
+      "statement": "重篤な皮膚の薬傷及び眼の損傷",
+      "lang": "ja"
+    },
+    {
+      "code": "H315",
+      "statement": "皮膚刺激性",
+      "lang": "ja"
+    },
+    {
+      "code": "H315",
+      "statement": "皮膚に刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H316",
+      "statement": "軽度の皮膚刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H317",
+      "statement": "アレルギー性皮膚反応を引き起こすおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H318",
+      "statement": "重篤な眼の損傷",
+      "lang": "ja"
+    },
+    {
+      "code": "H319",
+      "statement": "目に対して強い刺激がある",
+      "lang": "ja"
+    },
+    {
+      "code": "H319",
+      "statement": "強い目刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H319",
+      "statement": "重篤な眼への刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H320",
+      "statement": "眼の刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H320",
+      "statement": "眼への刺激",
+      "lang": "ja"
+    },
+    {
+      "code": "H330",
+      "statement": "吸入する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H331",
+      "statement": "吸入した場合は有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H332",
+      "statement": "吸入する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H333",
+      "statement": "吸入する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H334",
+      "statement": "吸入する則アレルギー、ぜん息または呼吸困難を起こすおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H335",
+      "statement": "呼吸器への刺激の恐れ",
+      "lang": "ja"
+    },
+    {
+      "code": "H335",
+      "statement": "呼吸器への刺激のおそれがある",
+      "lang": "ja"
+    },
+    {
+      "code": "H335",
+      "statement": "呼吸器への刺激のおそれがあります",
+      "lang": "ja"
+    },
+    {
+      "code": "H335",
+      "statement": "気道刺激のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H335",
+      "statement": "呼吸刺激を起こすおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H336",
+      "statement": "眠気やめまいのおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H336",
+      "statement": "眼気又はめまいのおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H335;H336",
+      "statement": "呼吸器への刺激のおそれ および 眠気またはめまいのおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H340",
+      "statement": "遺伝子性疾病のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H340",
+      "statement": "遺伝子損傷による疾患のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H341",
+      "statement": "遺伝性疾患のおそれのうたがい",
+      "lang": "ja"
+    },
+    {
+      "code": "H341",
+      "statement": "遺伝性疾患のおそれを疑われる",
+      "lang": "ja"
+    },
+    {
+      "code": "H350",
+      "statement": "発癌のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H351",
+      "statement": "発がんのおそれがあると疑われる",
+      "lang": "ja"
+    },
+    {
+      "code": "H360",
+      "statement": "生殖能力又は胎児への悪影響のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H360",
+      "statement": "生殖機能又は胎児への悪影響のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H361",
+      "statement": "生殖能又は胎児への悪影響のおそれの疑い",
+      "lang": "ja"
+    },
+    {
+      "code": "H362",
+      "statement": "授乳中の子に害を及ぼすおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H370",
+      "statement": "呼吸器系の傷害",
+      "lang": "ja"
+    },
+    {
+      "code": "H371",
+      "statement": "臓器の障害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期にわたる、または、反復ばく露による臓器を障害",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期にわたる、または、反復暴露による臓器の障害",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期にわたる、または、反復曝露による臓器の障害",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期にわたる、または、反復ばく露による臓器を損傷",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期ないし反復暴露による臓器の障害",
+      "lang": "ja"
+    },
+    {
+      "code": "H372",
+      "statement": "長期または反復ばく露による臓器の障害",
+      "lang": "ja"
+    },
+    {
+      "code": "H373",
+      "statement": "長期にわたる、又は反復ばく露による臓器の障害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H400",
+      "statement": "水生生物に極めて有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H400",
+      "statement": "水生生物に極めて強い毒性",
+      "lang": "ja"
+    },
+    {
+      "code": "H400",
+      "statement": "水生生物に非常に毒性",
+      "lang": "ja"
+    },
+    {
+      "code": "H401",
+      "statement": "水生生物に有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H402",
+      "statement": "水生生物に有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H410",
+      "statement": "長期継続的影響によって水生生物に非常に強い毒性",
+      "lang": "ja"
+    },
+    {
+      "code": "H411",
+      "statement": "長期継続的影響によって水生生物に毒性",
+      "lang": "ja"
+    },
+    {
+      "code": "H411",
+      "statement": "長期的影響により水生生物に毒性",
+      "lang": "ja"
+    },
+    {
+      "code": "H412",
+      "statement": "長期継続的影響によって水性生物に有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H412",
+      "statement": "長期的影響により水生生物に有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H413",
+      "statement": "長期継続的影響によって水生生物に有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H420",
+      "statement": "オゾン層を破壊し、健康及び環境に有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H300+H310",
+      "statement": "飲み込んだり皮膚に接触する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H300+H330",
+      "statement": "飲み込んだり吸入する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H310+H330",
+      "statement": "皮膚に接触したり吸入する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H300+H310+H330",
+      "statement": "飲み込んだり皮膚に接触したり吸入する則生命に危険",
+      "lang": "ja"
+    },
+    {
+      "code": "H301+H311",
+      "statement": "飲み込んだり皮膚に接触する則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H301+H331",
+      "statement": "飲み込んだり吸入する則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H311+H331",
+      "statement": "皮膚に接触したり吸入する則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H301+H311+H331",
+      "statement": "飲み込んだり皮膚に接触したり吸入する則有毒",
+      "lang": "ja"
+    },
+    {
+      "code": "H302+H312",
+      "statement": "飲み込んだり皮膚に接触する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H302+H332",
+      "statement": "飲み込んだり吸入する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H312+H332",
+      "statement": "皮膚に接触したり吸入する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H302+H312+H332",
+      "statement": "飲み込んだり皮膚に接触したり吸入する則有害",
+      "lang": "ja"
+    },
+    {
+      "code": "H303+H313",
+      "statement": "飲み込んだり皮膚に接触する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H303+H333",
+      "statement": "飲み込んだり吸入する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H313+H333",
+      "statement": "皮膚に接触したり吸入する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H303+H313+H333",
+      "statement": "飲み込んだり皮膚に接触したり吸入する則有害のおそれ",
+      "lang": "ja"
+    },
+    {
+      "code": "H315+H320",
+      "statement": "皮膚刺激及び眼刺激",
+      "lang": "ja"
+    },    
+    {
+     "code": "H229",
+     "statement": "Pojemnik pod ciśnieniem: Ogrzanie grozi wybuchem.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH044",
+     "statement": "Zagrożenie wybuchem po ogrzaniu w zamkniętym pojemniku.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH029",
+     "statement": "W kontakcie z wodą uwalnia toksyczne gazy.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH031",
+     "statement": "W kontakcie z kwasami uwalnia toksyczne gazy.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH070",
+     "statement": "Działa toksycznie w kontakcie z oczami.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH071",
+     "statement": "Działa żrąco na drogi oddechowe.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH201",
+     "statement": "Zawiera ołów. Nie należy stosować na powierzchniach, które mogą być gryzione lub ssane przez dzieci.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH202",
+     "statement": "Cyjanoakrylany. Niebezpieczeństwo. Skleja skórę i powieki w ciągu kilku sekund. Chronić przed dziećmi.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH203",
+     "statement": "Zawiera chrom (VI). Może powodować wystąpienie reakcji alergicznej.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH204",
+     "statement": "Zawiera izocyjaniany. Może powodować wystąpienie reakcji alergicznej.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH207",
+     "statement": "Uwaga! Zawiera kadm. Podczas stosowania wydziela niebezpieczne pary. Zapoznaj się z informacją dostarczoną przez producenta. Przes­trzegaj instrukcji bezpiecznego stosowania.",
+     "lang": "pl"
+    },
+    {
+     "code": "EUH208",
+     "statement": "Zawiera <nazwa substancji uczulającej>. Może powodować wystąpienie reakcji alergicznej.",
+     "lang": "pl"
+    },
+    {
+     "code": "H200",
+     "statement": "Instabiele ontplofbare stof.",
+     "lang": "nl"
+    },
+    {
+     "code": "H201",
+     "statement": "Ontplofbare stof; gevaar voor massa-explosie.",
+     "lang": "nl"
+    },
+    {
+     "code": "H202",
+     "statement": "Ontplofbare stof, ernstig gevaar voor scherfwerking.",
+     "lang": "nl"
+    },
+    {
+     "code": "H203",
+     "statement": "Ontplofbare stof; gevaar voor brand, luchtdrukwerking of scherfwerking.",
+     "lang": "nl"
+    },
+    {
+     "code": "H204",
+     "statement": "Gevaar voor brand of scherfwerking.",
+     "lang": "nl"
+    },
+    {
+     "code": "H205",
+     "statement": "Gevaar voor massa-explosie bij brand.",
+     "lang": "nl"
+    },
+    {
+     "code": "H207",
+     "statement": "Kan brand veroorzaken of brand bevorderen.",
+     "lang": "nl"
+    },
+    {
+     "code": "H220",
+     "statement": "Zeer licht ontvlambaar gas.",
+     "lang": "nl"
+    },
+    {
+     "code": "H221",
+     "statement": "Ontvlambaar gas.",
+     "lang": "nl"
+    },
+    {
+     "code": "H222",
+     "statement": "Zeer licht ontvlambare aerosol.",
+     "lang": "nl"
+    },
+    {
+     "code": "H223",
+     "statement": "Ontvlambare aerosol.",
+     "lang": "nl"
+    },
+    {
+     "code": "H224",
+     "statement": "Zeer licht ontvlambare vloeistof en damp.",
+     "lang": "nl"
+    },
+    {
+     "code": "H225",
+     "statement": "Licht ontvlambare vloeistof en damp.",
+     "lang": "nl"
+    },
+    {
+     "code": "H226",
+     "statement": "Ontvlambare vloeistof en damp.",
+     "lang": "nl"
+    },
+    {
+     "code": "H227",
+     "statement": "Brandbare vloeistof.",
+     "lang": "nl"
+    },
+    {
+     "code": "H228",
+     "statement": "Ontvlambare vaste stof.",
+     "lang": "nl"
+    },
+    {
+     "code": "H229",
+     "statement": "Houder onder druk: kan openbarsten bij verhitting",
+     "lang": "nl"
+    },
+    {
+     "code": "H230",
+     "statement": "Kan explosief reageren zelfs in afwezigheid van lucht",
+     "lang": "nl"
+    },
+    {
+     "code": "H231",
+     "statement": "Kan explosief reageren zelfs in afwezigheid van lucht bij verhoogde druk en/of temperatuur",
+     "lang": "nl"
+    },
+    {
+     "code": "H232",
+     "statement": "Kan spontaan ontbranden bij blootstelling aan lucht",
+     "lang": "nl"
+    },
+    {
+     "code": "H240",
+     "statement": "Ontploffingsgevaar bij verwarming.",
+     "lang": "nl"
+    },
+    {
+     "code": "H241",
+     "statement": "Brand- of ontploffingsgevaar bij verwarming.",
+     "lang": "nl"
     }
 ]
+
